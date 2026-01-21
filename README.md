@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Khayrol Islam (0xmadtiger)
 
 🛡️ Security Researcher | Ethical Hacker | Tool Builder  
-💻 Linux (Arch) User | Automation Lover  
+💻 Linux User | Automation Lover  
 🌍 From Hololu
 
 ---
@@ -31,7 +31,7 @@
 ### 👯 I’m Looking to Collaborate On
 - Open-source security tools  
 - Bug bounty automation scripts  
-- Red Team / CTF related projects  
+- Red Hat related projects  
 
 ---
 
