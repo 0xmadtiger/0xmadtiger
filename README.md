@@ -45,6 +45,7 @@
 
 ### 📫 How to Reach Me
 - GitHub: [https://github.com/0xmadtiger](https://github.com/0xmadtiger)
+- Telegram: [https://t.me/@DevidLuice]([https://github.com/0xmadtiger](https://t.me/@DevidLuice))
 
 ---
 
